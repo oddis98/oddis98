@@ -11,3 +11,7 @@
 ![Oddbjørn's github stats](https://github-readme-stats.vercel.app/api?username=oddis98&count_private=true&show_icons=true&theme=default&hide_rank=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oddis98)
+
+<h2 align="left">Cool projects</h2>
+
+[![Vue Trivia Game](https://github-readme-stats.vercel.app/api/pin/?username=oddis98&repo=trivia-game)](https://github.com/oddis98/trivia-game)
