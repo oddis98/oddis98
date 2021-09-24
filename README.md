@@ -15,3 +15,4 @@
 <h2 align="left">Cool projects</h2>
 
 [![Vue Trivia Game](https://github-readme-stats.vercel.app/api/pin/?username=oddis98&repo=trivia-game)](https://github.com/oddis98/trivia-game)
+[![React Translator App](https://github-readme-stats.vercel.app/api/pin/?username=oddis98&repo=lost-in-translation)](https://github.com/oddis98/lost-in-translation)
